@@ -8,3 +8,17 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
         
+body{
+
+    background-color: rgb(175, 165, 184);
+    
+}
+
+a{
+    text-decoration: none;
+    color: rgb(10, 95, 53);
+}
+
+fieldset{
+    width: 700px;
+}
